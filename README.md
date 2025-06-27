@@ -242,5 +242,6 @@ You can preview the production build with `npm run preview`.
 # 4. Code ToDo's
 - Dynamische Bilder Tutorial
 - SSH Tutorial + install
+- https://www.youtube.com/watch?v=duE5P1hG6sg
 
 
