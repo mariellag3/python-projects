@@ -212,3 +212,11 @@ You can preview the production build with `npm run preview`.
 
 
 
+## helpfull links:
+
+[git ssh setup](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+[angular tic tac toe ](https://www.youtube.com/watch?v=G0bBLvWXBvc) kann auch mit svelte gemacht werden 
+[git for windows](https://git-scm.com/downloads)
+[git cheat sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
+[bash cheat sheet (linux terminal befehle)](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
+[docker container cheat sheet](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
