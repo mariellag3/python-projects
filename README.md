@@ -1,8 +1,10 @@
-# Notizen
+# Code Notizen
 
 Diese Datei hat den Namen notes.md auf visual studio code und man kann die Demonstration ansehen indem man oben rechts auf das Teilscreen symbol mit dem Suchsymbol klickt  
 
 <br>
+
+# 1. Hilfreiche Sachen und Anmerkungen
 
 ## Hilfreiche Links
 
@@ -24,25 +26,29 @@ Diese Datei hat den Namen notes.md auf visual studio code und man kann die Demon
 
 - [Insallation von ollama im terminal mit docker](https://hub.docker.com/r/ollama/ollama)
 
+- [git ssh setup](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+- [angular tic tac toe ](https://www.youtube.com/watch?v=G0bBLvWXBvc) -> kann auch mit svelte gemacht werden 
+
+- [git for windows](https://git-scm.com/downloads)
+
+- [git cheat sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
+
+- [bash cheat sheet (linux terminal befehle)](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
+
+- [docker container cheat sheet](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
+
+
 <br>
 
-### Anderer wichtiger Einschub
+### Andere wichtige Einschübe
 
 ```python
 print("\"") #anführungszeichen werden ausgegeben aber ohne \
 ```
 
 - Außerdem erstell man die ersten Projekte unter src und dann routes
-
-<br>
-
-### Installationen 
-
-Programme die man im Terminal installieren musste um Das AI programm laufen zu lassen: brew, rancher desktop/ docker desktop, ollama, modell 
-
-
-
-Programme die man im Terminal installieren musste um das Übersetzer Programm laufen zu lassen: brew, node+npm, svelte, translate, carbon design
+- Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
 <br>
 
@@ -108,6 +114,25 @@ Programme die man im Terminal installieren musste um das Übersetzer Programm la
 
 <br>
 
+## Kurse (nur im Angebot)
+
+[Udemy Link](https://www.udemy.com/?utm_source=adwords-brand&utm_medium=udemyads&utm_campaign=Brand-Udemy_la.DE_cc.DE&campaigntype=Search&portfolio=BrandDirect&language=DE&product=Course&test=&audience=Keyword&topic=&priority=&utm_content=deal4584&utm_term=_._ag_121916422005_._ad_570930000361_._kw_udemy_._de_c_._dm__._pl__._ti_kwd-296956216253_._li_9042247_._pd__._&matchtype=b&gad_source=1&gad_campaignid=13514852604&gclid=EAIaIQobChMIlsXviveMjgMV06ODBx3JYBRJEAAYASAAEgKilPD_BwE)
+
+
+<br>
+
+# 2. Installationen
+
+### Installationen 
+
+Programme die man im Terminal installieren musste um Das AI programm laufen zu lassen: brew, rancher desktop/ docker desktop, ollama, modell 
+
+
+
+Programme die man im Terminal installieren musste um das Übersetzer Programm laufen zu lassen: brew, node+npm, svelte, translate, carbon design
+
+<br>
+
 ## Installationen für Windows
 
 Frontend: 
@@ -158,12 +183,6 @@ Installieren: https://nodejs.org/en
 <br>
 <br>
 
-
-
-# sv (Svelte)
-
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
-
 ## Creating a project
 
 If you're seeing this, you've probably already done this step. Congrats!
@@ -199,24 +218,29 @@ You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
 
+<br>
 
-## Kurse (nur im Angebot)
+# 3. Github
 
-[Udemy Link](https://www.udemy.com/?utm_source=adwords-brand&utm_medium=udemyads&utm_campaign=Brand-Udemy_la.DE_cc.DE&campaigntype=Search&portfolio=BrandDirect&language=DE&product=Course&test=&audience=Keyword&topic=&priority=&utm_content=deal4584&utm_term=_._ag_121916422005_._ad_570930000361_._kw_udemy_._de_c_._dm__._pl__._ti_kwd-296956216253_._li_9042247_._pd__._&matchtype=b&gad_source=1&gad_campaignid=13514852604&gclid=EAIaIQobChMIlsXviveMjgMV06ODBx3JYBRJEAAYASAAEgKilPD_BwE)
+## Github Projekte im Terminal updaten
+1. `git status`
+2. `git add .`
+3. `git commmit -m "<Beschreibung der Änderung>"`
+4. `git push -u origin main`
+5. Githubseite Aktualisieren und fertig :)
+
+## Github Projekte in Github updaten
+1. `.` in Projekt das man anpassen will drücken
+2. Den Code Anpassen
+3. Unter Quellcodeverwaltung die Änderungen auswählen und Commit und Push drücken
+
+## Github anmerkungen
+- `cp <dateiname1> <dateiname2>/<umbennanter dateiname>` - Datei eins wird in Datei 2 kopiert und der Zusammmenschluss wwird Umbenannt
+
+<br>
+
+# 4. Code ToDo's
+- Dynamische Bilder Tutorial
+- SSH Tutorial + install
 
 
-
-
-
-
-
-
-
-## helpfull links:
-
-[git ssh setup](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
-[angular tic tac toe ](https://www.youtube.com/watch?v=G0bBLvWXBvc) kann auch mit svelte gemacht werden 
-[git for windows](https://git-scm.com/downloads)
-[git cheat sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
-[bash cheat sheet (linux terminal befehle)](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
-[docker container cheat sheet](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
