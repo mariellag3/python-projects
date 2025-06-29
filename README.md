@@ -237,6 +237,17 @@ You can preview the production build with `npm run preview`.
 ## Github anmerkungen
 - `cp <dateiname1> <dateiname2>/<umbennanter dateiname>` - Datei eins wird in Datei 2 kopiert und der Zusammmenschluss wwird Umbenannt
 
+## Github projekt in vscode öffnen
+- `git clone <href von Github>`
+- `cd <projektname>`
+- `code .`
+
+## Vscode Projekt in svelte öffnen
+- Überprüfen mit `node -v` und `npm -v`
+- Falls das Projekt neu erstellt wurde: `npm install`
+- `npm run dev`
+- strg und link klicken
+
 <br>
 
 # 4. Code ToDo's
