@@ -266,7 +266,6 @@ You can preview the production build with `npm run preview`.
 
 # 4. Code ToDo's
 - Dynamische Bilder Tutorial
-- SSH Tutorial + install
 - https://www.youtube.com/watch?v=duE5P1hG6sg
 - https://medium.com/codex/15-fun-and-interesting-apis-to-use-for-your-next-coding-project-in-2022-86a4ff3a2742
 - https://stackoverflow.com/questions/76837048/creating-the-simplest-html-toggle-button
