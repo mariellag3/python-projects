@@ -250,6 +250,18 @@ You can preview the production build with `npm run preview`.
 
 <br>
 
+## Neues vsCode Svelte Projekt im Terminal erstellen 
+- 1. Mit Windowstaste+R Suchzeile öffnen und cmd eingeben + Enter
+- 2. `dir` eingeben (wie ls befehl)
+- 3. `create vite@latest <name der Datei> -- --template svelte`
+- 4. `cd <Name der Datei>`
+- 5. `npm install`
+- 6. `code .`
+- 7. `npm run dev` um Svelte local Server zu öffnen (auf Host link mit strg drücken)
+
+<br>
+
+
 # 4. Code ToDo's
 - Dynamische Bilder Tutorial
 - SSH Tutorial + install
