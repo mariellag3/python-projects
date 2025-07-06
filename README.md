@@ -40,6 +40,7 @@ Diese Datei hat den Namen notes.md auf visual studio code und man kann die Demon
 
 - [Logikgatter Übersicht](https://de.wikipedia.org/wiki/Logikgatter)
 
+- [Toggle Button erstellen](https://stackoverflow.com/questions/76837048/creating-the-simplest-html-toggle-button)
 
 <br>
 
@@ -265,8 +266,7 @@ You can preview the production build with `npm run preview`.
 
 # 4. Code ToDo's
 - Dynamische Bilder Tutorial
-- https://www.youtube.com/watch?v=duE5P1hG6sg
-- https://medium.com/codex/15-fun-and-interesting-apis-to-use-for-your-next-coding-project-in-2022-86a4ff3a2742
-- https://stackoverflow.com/questions/76837048/creating-the-simplest-html-toggle-button
-- https://www.youtube.com/watch?v=KIT4lgR3FWA
-
+- Toggle seite projekt zuende machen
+- [Create API endpoints with Flask](https://www.youtube.com/watch?v=duE5P1hG6sg)
+- [Funny API's:](https://medium.com/codex/15-fun-and-interesting-apis-to-use-for-your-next-coding-project-in-2022-86a4ff3a2742)
+- [Python Flask Tutorial - App erstellen, Routen, HTML rendern, gunicorn usw:](https://www.youtube.com/watch?v=KIT4lgR3FWA)
